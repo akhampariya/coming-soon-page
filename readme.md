@@ -10,13 +10,14 @@ Simple landing (coming soon) page for your feature project with:
 
 Build on top of laravel [![Lumen](https://poser.pugx.org/laravel/lumen-framework/v/stable.svg)](https://packagist.org/packages/laravel/lumen-framework) micro framework
 
-### Install
+### Installation
 
 - clone the repo
 - run `composer install` (read more about (http://getcomposer.org))
 - copy `.env.example` to `.env`
 - confifure Db and email at the `.env`
-- 
+- configure the virtual host `http://coming-soon.loc` and get access
+- `/stats` for the subscribers statistics (note: that it is not secured)
 
 ### Demo
 
